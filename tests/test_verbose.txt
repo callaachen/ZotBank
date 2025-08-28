@@ -1,0 +1,24 @@
+verbose on
+*
+report
+safety
+snapshot
+undo
+summary
+history
+help
+help all
+help RQ
+explain
+RQ 0 1 0 0 0
+RL 0 1 0 0 0
+help xyz
+verbose off
+report
+summary
+history
+help
+help RL
+RQ 1 1 0 0 0
+RL 1 1 0 0 0
+exit

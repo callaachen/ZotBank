@@ -1,0 +1,9 @@
+safety
+RQ 0 1 1 1 1
+RQ 1 2 2 1 0
+safety
+RQ 2 1 1 1 1
+RL 0 1 0 0 0
+RQ 3 2 2 2 2
+report
+exit

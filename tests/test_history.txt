@@ -1,0 +1,6 @@
+help
+*
+report
+history
+report
+exit

@@ -1,0 +1,42 @@
+help
+help RQ
+help RL
+help *
+help safety
+help snapshot
+help undo
+help report
+help summary
+help explain
+help test
+help save
+help load
+help history
+help !N
+help help
+help verbose
+help color
+help savepoint
+help rollback
+help batch
+help heatmap
+help exit
+
+help req
+help rel
+help rep
+help sum
+help xpl
+help hist
+help snap
+help undo!
+help v
+help c
+help sp
+help rb
+help bat
+help hm
+help q
+
+help all
+help invalid_command

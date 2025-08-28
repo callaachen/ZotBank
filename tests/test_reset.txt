@@ -1,0 +1,11 @@
+RQ 0 2 2 2 2
+report
+reset
+*
+RQ 0 1 1 1 1
+report
+RQ 1 1 1 1 1
+RL 0 1 0 0 0
+*
+report
+exit

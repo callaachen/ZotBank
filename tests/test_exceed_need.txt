@@ -1,0 +1,6 @@
+RQ 0 10 10 10 10
+RQ 1 5 5 5 5
+*
+explain
+report
+exit

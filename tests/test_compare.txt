@@ -1,0 +1,7 @@
+*
+savepoint alpha
+RQ 0 1 1 0 0
+savepoint beta
+RQ 1 0 1 0 0
+compare beta
+compare alpha           

@@ -1,0 +1,9 @@
+*
+RQ 0 1 0 1 0
+RQ 1 2 2 2 2
+report
+RL 0 1 0 1 0
+RQ 1 1 0 0 0
+RQ 2 2 2 2 2
+report
+exit

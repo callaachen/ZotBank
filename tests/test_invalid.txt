@@ -1,0 +1,9 @@
+RQ 0 -1 0 0 0         # Negative value
+RQ 10 1 1 1 1         # Invalid customer
+RL 1 9 9 9 9          # Releasing too much
+RQ 0 0 0 0            # Too few args
+RL 0 1 2              # Too few args
+RQ 3 3               # Incomplete args
+RL 2                 # Missing resource values
+report
+exit
